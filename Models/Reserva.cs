@@ -59,7 +59,7 @@ namespace DesafioProjetoHospedagem.Models
                 decimal valordoDesconto = valor - (valor * 0.9m); // Aplicando 10% de desconto ;
                 valor = valor - valordoDesconto;
             }
-
+            // Retorno do valor total
             return valor;
         }
     }
