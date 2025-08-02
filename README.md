@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Explorando a linguagem C#
+# DIO - Trilha .NET - Explorando a linguagem C# - Configurado em .NET 8.
 www.dio.me
 
 ## Desafio de projeto
